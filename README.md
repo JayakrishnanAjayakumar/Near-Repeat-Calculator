@@ -37,6 +37,6 @@ id,t,y,x
 
 10503671,4/28/2016 23:40,42.02253659,-87.67374743
 
-Every point should have a unique ID and time and geographical coordinates
+Every point should have a unique ID and time and geographical coordinates. The headers should be exactly the same as shown here
 
 
