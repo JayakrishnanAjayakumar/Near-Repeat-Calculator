@@ -34,7 +34,7 @@ The program generates and prints the knox table of p-values and the knox ratio t
 The spatio-temporal event data should be strictly in this format
 
 id,t,y,x
-10503671,4/28/2016 23:40,42.02253659,-87.67374743
+10503671,4/28/2016 23:40,42.02253659,-87.67374743\n
 10405712,2/6/2016 9:30,42.02253638,-87.67371063
 
 Every point should have a unique ID and time and geographical coordinates
